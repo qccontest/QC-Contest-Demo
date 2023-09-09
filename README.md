@@ -11,4 +11,4 @@ And we release the noise model and system model, we require participant to follo
 
 ## How do I find the dataset?
 
-You can find the Hamiltonian for the target molecule at [Hamiltonian](https://github.com/qccontest/QC-Contest-Demo/tree/main/Hamiltonian). And we also recommend participants some seeds for algorithmic, transpiling, and measurement in Qiskit; the final results should be the average of 10 different seeds: 5 in [Seeds](https://github.com/qccontest/QC-Contest-Demo/blob/main/algorithm_seeds/requiredseeds.txt), and other 5 will be selected from hidden test seeds set.
+You can find the Hamiltonian for the target molecule at [Hamiltonian](https://github.com/qccontest/QC-Contest-Demo/tree/main/Hamiltonian). And we also recommend participants some seeds for algorithmic, transpiling, and measurement in Qiskit; the final results should be the average of 10 different seeds: 5 in [Seeds](https://github.com/qccontest/QC-Contest-Demo/blob/main/algorithm_seeds/requiredseeds.txt), and other 5 will be selected from hidden test seeds set. You can find the noise models at [NoiseModel](https://github.com/qccontest/QC-Contest-Demo/tree/main/NoiseModel).
